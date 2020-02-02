@@ -1,1 +1,2 @@
-# js-timer
+# Simple JS timer script
+
